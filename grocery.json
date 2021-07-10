@@ -1,0 +1,95 @@
+{
+    "Items":[
+        {
+            "SlNo":"1",
+            "Name":"Tomato",
+            "Qty":"1",
+            "Unit":"kg",
+             "Department":"Vegetables",
+             "Notes":"Fresh"
+
+        },
+        {
+            "SlNo":"2",
+            "Name":"Apple",
+            "Qty":".5",
+            "Unit":"kg",
+             "Department":"Fruits",
+             "Notes":"Fresh"
+
+        },
+        {
+            "SlNo":"3",
+            "Name":"Sanitizer",
+            "Qty":"250",
+            "Unit":"litre",
+             "Department":"Health",
+             "Notes":"Small bottle"
+
+        },
+        {
+            "SlNo":"4",
+            "Name":"Spoon",
+            "Qty":"3",
+            "Unit":"No",
+             "Department":"Utensils",
+             "Notes":"Strong"
+
+        },
+        {
+            "SlNo":"5",
+            "Name":"Beef",
+            "Qty":"2",
+            "Unit":"kg",
+             "Department":"Meat",
+             "Notes":"Fresh"
+
+        },
+        {
+            "SlNo":"6",
+            "Name":"Cheese",
+            "Qty":"250",
+            "Unit":"grms",
+             "Department":"Dairy",
+             "Notes":"Fresh"
+
+        },
+        {
+            "SlNo":"7",
+            "Name":"egg",
+            "Qty":".5",
+            "Unit":"kg",
+             "Department":"Dairy",
+             "Notes":"Duck"
+
+        },
+        {
+            "SlNo":"8",
+            "Name":"Lizol",
+            "Qty":"2",
+            "Unit":"litre",
+             "Department":"Sanitation",
+             "Notes":"Big bottle"
+
+        },
+        {
+            "SlNo":"9",
+            "Name":"Onion",
+            "Qty":"1 ",
+            "Unit":"kg",
+             "Department":"Vegetables",
+             "Notes":"Fresh"
+
+        },
+        {
+            "SlNo":"10",
+            "Name":"Rice",
+            "Qty":"1 ",
+            "Unit":"kg",
+             "Department":"Cereal",
+             "Notes":"Basmati"
+
+        }
+
+    ]
+}

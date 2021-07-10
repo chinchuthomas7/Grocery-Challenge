@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Lobster&family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Festive&family=Lobster&family=Otomanopee+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(https://media.istockphoto.com/photos/empty-orange-color-shopping-bag-on-the-yellow-background-copy-space-picture-id1178685067?k=6&m=1178685067&s=612x612&w=0&h=vFh6JIw2ExgmMSndLmCYfSKPeqrf8rbF-IzO7Ixbalc=);
+    background-size: cover;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+    text-align: center;
+    color: ivory;
+    margin-top: 10px;
+}
+p{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: larger;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Otomanopee One', sans-serif;
+    
+   
+}
+button{
+    color:rgb(255, 255, 255);
+    border-style:groove;
+    width:100px;
+    height:40px;
+    border:none ;
+    background:linear-gradient(to left,rgb(184, 132, 140),rgb(231, 82, 157));
+
+
+ 
+     
+}
+table{
+    border: rgb(243, 243, 243) solid 1px ;
+}
+
+
+ 
+tbody{
+    
+    padding: 5px;
+} 
+
+tr{
+    margin-top: 5px;
+
+        background:linear-gradient(to right,rgba(255, 0, 85, 0.445),rgb(204, 199, 199));
+        color: rgb(14, 37, 2);            
+}
+.space{
+    
+    font-family: 'Dancing Script', cursive;
+    color: rgb(2, 44, 38);
+    
+}
+
+.but{
+      font-family: 'Otomanopee One', sans-serif; 
+      font-family: 'Lobster', cursive;
+        font-family: 'Otomanopee One', sans-serif;  
+}
+
+/* to make responsive background */
+/* @media(max-width:640px){
+    background-image:url(https://media.istockphoto.com/photos/grocery-shopping-concept-foods-with-shopping-bag-picture-id1126188273?k=6&m=1126188273&s=612x612&w=0&h=YEOvt9vBehWOgP7QadF2RX2iBtvZ_zY7LaMmOP4OFK8=);
+} */
+
+
